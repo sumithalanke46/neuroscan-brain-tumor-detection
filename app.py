@@ -237,7 +237,7 @@ def main():
 
     with tab3:
         st.markdown("### Academic Course Project Information")
-        st.markdown("""
+        st.markdown(r"""
         - **Institution**: Prasad V Potluri Siddhartha Institute of Technology
         - **Department**: Department of Computer Science & Engineering
         - **Academic Year**: 2026-27
